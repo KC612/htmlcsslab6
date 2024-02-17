@@ -1,0 +1,2 @@
+<img width="1127" alt="lab6pic1" src="https://github.com/KC612/htmlcsslab6/assets/155512278/ad418a14-74d0-4000-b998-3dea99107685">
+<img width="1127" alt="lab6pic2" src="https://github.com/KC612/htmlcsslab6/assets/155512278/09480179-129c-427f-a1ea-50553c92b974">
